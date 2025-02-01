@@ -18,8 +18,6 @@ Este é um simples site de vendas criado usando **HTML**, **CSS** e **JavaScript
 ## Estrutura de arquivos
 
 - **index.html**: Página principal que exibe o carrossel de promoções e produtos.
-- **produtos.html**: Página de listagem de produtos.
-- **cadastro.html**: Página de login e cadastro.
 - **css/style.css**: Arquivo de estilos CSS para personalizar a aparência do site.
 - **js/script.js**: Arquivo JavaScript que contém a lógica de controle de quantidade e funcionalidade do carrinho de compras.
 
