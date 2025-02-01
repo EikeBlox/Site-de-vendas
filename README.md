@@ -34,7 +34,3 @@ Sinta-se à vontade para fazer um fork deste projeto e adaptá-lo da maneira que
 ## Licença
 
 Este projeto é de uso livre. Sinta-se à vontade para modificar, distribuir ou adaptar o projeto conforme suas necessidades.
-
----
-
-Com esse modelo, você cobre o básico para qualquer pessoa entender o que é o seu projeto e como ela pode utilizá-lo ou modificá-lo. Dependendo da sua necessidade, você pode adicionar mais informações técnicas, como dependências de bibliotecas ou outros detalhes de implementação.
